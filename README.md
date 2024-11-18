@@ -28,7 +28,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 
 ### R11 pack installation
 
-* Download your R11 pack through the [resources folder](https://github.com/Undisputed00x/R11-resource-redirect/tree/main/Resources).
+* Download your R11 pack through the [resources folder](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Resources/WindhawkR11.7z).
 * Unzip and extract the theme folder in a directory of your system.
 * First run as admin the `CopyNeccessary.bat`.
 * Copy the path of the theme folder (right click - copy as path) which contains the theme files.
@@ -39,15 +39,17 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * Click Save.
 
 > [!TIP]
-> For a cleaner look, use [the script to disable folder thumbnail previews](https://github.com/Undisputed00x/R11-resource-redirect/tree/main/Scripts).
+> For a cleaner look, use [the script to disable folder thumbnail previews](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Scripts/Disable_folder_thumbnail_previews.bat).
+
+> [!CAUTION]
+> Don't move the theme files or change their filenames unless you know how the theme redirection works!
 
 > [!Important]
 > Rectify 11 resource redirect works best with Rectify 11 windows themes. <br />
 > In case of some visual inconsistencies in the UI of Windows, <br />
 > Use Rectify 11 installer from their [website](https://rectify11.net/home) to install the R11 themes
 
-> [!CAUTION]
-> Don't move the theme files or change their filenames unless you know how the theme redirection works!
+![r11 installer](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20installer.png)
 
 ### Installation Demo
 *Click on the image to view the demo video on YouTube.*
@@ -55,10 +57,10 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 ## Contributing
 
 If you have additions resources fitting the Recitfy 11 design that you would
-like to share, please submit a [pull request](https://github.com/niivu/resource-redirect-icon-themes/pulls).
+like to share, please submit a [pull request](https://github.com/Undisputed00x/R11-resource-redirect/pulls).
 
 ### Issues
-If you are experiencing issues with this mod, please [open an issue](https://github.com/niivu/resource-redirect-icon-themes/issues).
+If you are experiencing issues with this mod, please [open an issue](https://github.com/Undisputed00x/R11-resource-redirect/issues).
 
 ## Credits
 * [Rectify 11](https://rectify11.net/home): The website of the Rectify 11 project.
