@@ -35,8 +35,8 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * Open Windhawk, go to the already installed "Resource Redirect" mod.
 * Go to mod's settings tab.
 * Paste the copied path to the theme folder empty box and remove the path quote marks.
+* Enable "Redirect all loaded resources" option.
 * Click Save.
-* You might want to disable folder thumbnail previews and clear icon cache, see notes below.
 
 > [!TIP]
 > For a cleaner look, use [the script to disable folder thumbnail previews](https://github.com/Undisputed00x/R11-resource-redirect/tree/main/Scripts).
