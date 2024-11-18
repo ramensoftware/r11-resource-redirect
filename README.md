@@ -44,7 +44,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 > [!Important]
 > Rectify 11 resource redirect works best with Rectify 11 windows themes. <br />
 > In case of some visual inconsistencies in the UI of Windows, <br />
-> Use Rectify 11 installator from their [website](https://rectify11.net/home) to install the R11 themes
+> Use Rectify 11 installer from their [website](https://rectify11.net/home) to install the R11 themes
 
 > [!CAUTION]
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!
