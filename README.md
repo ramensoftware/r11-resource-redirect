@@ -63,7 +63,7 @@ like to share, please submit a [pull request](https://github.com/Undisputed00x/R
 If you are experiencing issues with this mod, please [open an issue](https://github.com/Undisputed00x/R11-resource-redirect/issues).
 
 ## Credits
-* [Rectify 11](https://rectify11.net/home): The website of the Rectify 11 project.
+* The [Rectify 11](https://rectify11.net/home) team.
 * marbles0976: For the Windhawk icon.
 
 If you like Rectify 11 pack please follow the [Rectify 11 github repository](https://github.com/Rectify11/Installer).
