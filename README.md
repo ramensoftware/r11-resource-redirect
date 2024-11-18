@@ -1,4 +1,4 @@
-![R11Windhawk-3](https://github.com/user-attachments/assets/e5dcd216-43c4-47c4-bd0d-ed8fe28dff92)
+![image](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/repo%20image.png)
 
 # Rectify 11 resource redirect
 
@@ -28,7 +28,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 
 ### R11 pack installation
 
-* Download your R11 pack through the [theme folder](https::blank).
+* Download your R11 pack through the [resources folder](https://github.com/Undisputed00x/R11-resource-redirect/tree/main/Resources)).
 * Unzip and extract the theme folder in a directory of your system.
 * First run as admin the `CopyNeccessary.bat`.
 * Copy the path of the theme folder (right click - copy as path) which contains the theme files.
@@ -39,7 +39,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * You might want to disable folder thumbnail previews and clear icon cache, see notes below.
 
 > [!TIP]
-> For a cleaner look, use [the script to disable folder thumbnail previews](https://github.com/niivu/resource-redirect-icon-themes/blob/main/Scripts/Disable_folder_thumbnail_previews.bat).
+> For a cleaner look, use [the script to disable folder thumbnail previews](https://github.com/Undisputed00x/R11-resource-redirect/tree/main/Scripts).
 
 > [!Important]
 > Rectify 11 resource redirect works best with Rectify 11 windows themes. <br />
