@@ -28,7 +28,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 
 ### R11 pack installation
 
-* Download your R11 pack through the [resources folder](https://github.com/Undisputed00x/R11-resource-redirect/tree/main/Resources)).
+* Download your R11 pack through the [resources folder](https://github.com/Undisputed00x/R11-resource-redirect/tree/main/Resources).
 * Unzip and extract the theme folder in a directory of your system.
 * First run as admin the `CopyNeccessary.bat`.
 * Copy the path of the theme folder (right click - copy as path) which contains the theme files.
