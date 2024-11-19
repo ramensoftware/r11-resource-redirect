@@ -88,5 +88,10 @@ If you like Rectify 11 pack please follow the [Rectify 11 github repository](htt
 **Rectify11**
 ![r11 taskmgr](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20taskmgr.gif)
 
+**Default**
+![default ex7 anims](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/default%20ex7%20anims.gif)
+**Rectify 11**
+![r11 ex7 anims](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20ex7%20anims.gif)
+
 
 
