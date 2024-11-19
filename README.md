@@ -10,6 +10,7 @@ The resource pack of Rectify 11 for Windhawk's Resource Redirect mod
 * [Installation](#installation)
 * [Contributing](#contributing)
 * [Credits](#credits)
+* [Screenshots](#screenshots)
 
 
 ## Introduction
@@ -67,3 +68,25 @@ If you are experiencing issues with this mod, please [open an issue](https://git
 * marbles0976: For the Windhawk icon.
 
 If you like Rectify 11 pack please follow the [Rectify 11 github repository](https://github.com/Rectify11/Installer).
+
+## Screenshots
+### Redesigned system icons
+**Default**
+![default CPL](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/default%20CPL.png)
+**Rectify 11**
+![r11 CPL](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20CPL.png)
+
+### Refined UI
+**Default**
+![default WMP](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/default%20WMP.png)
+**Rectify 11**
+![r11 WMP](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20WMP.png)
+
+### New DirectUI animations
+**Default**
+![default taskmgr](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/default%20taskmgr.gif)
+**Rectify11**
+![r11 taskmgr](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20taskmgr.gif)
+
+
+
