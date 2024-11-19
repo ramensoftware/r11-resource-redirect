@@ -82,7 +82,7 @@ If you like Rectify 11 pack please follow the [Rectify 11 github repository](htt
 **Rectify 11**
 ![r11 WMP](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20WMP.png)
 
-### New DirectUI animations
+### Added DirectUI animations
 **Default**
 ![default taskmgr](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/default%20taskmgr.gif)
 **Rectify11**
