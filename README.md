@@ -1,8 +1,8 @@
-![image](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/repo%20image.png)
+![Logo](Images/repo%20image.png)
 
 # Rectify11 Resource Redirect
 
-The resource pack of Rectify11 for Windhawk's Resource Redirect mod
+The resource pack of Rectify11 for Windhawk's Resource Redirect mod.
 
 ## Table of contents
 
@@ -11,7 +11,6 @@ The resource pack of Rectify11 for Windhawk's Resource Redirect mod
 * [Contributing](#contributing)
 * [Credits](#credits)
 * [Screenshots](#screenshots)
-
 
 ## Introduction
 
@@ -29,7 +28,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 
 ### R11 pack installation
 
-* Download your R11 pack through the [resources folder](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Resources/WindhawkR11.7z).
+* Download your R11 pack through the [resources folder](Resources/WindhawkR11.7z).
 * Unzip and extract the theme folder in a directory of your system.
 * First run as admin the `CopyNecessary.bat` script.
 * Copy the path of the theme folder (right click - copy as path) which contains the theme files.
@@ -40,7 +39,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * Click Save.
 
 > [!TIP]
-> For a cleaner look of folders, use [the script to disable folder thumbnail previews](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Scripts/Disable_folder_thumbnail_previews.bat).
+> For a cleaner look of folders, use [the script to disable folder thumbnail previews](Scripts/Disable_folder_thumbnail_previews.bat).
 
 > [!NOTE]
 > The contents of Rectify11 resource pack are equivalent to the "System icons" option in the official installer
@@ -50,23 +49,23 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 > In case of any visual inconsistencies in the UI of Windows, use the Rectify11 installer <br />
 > from the official [website](https://rectify11.net/home) to install the custom themes
 > 
-> ![r11 installer](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20installer.png)
+> ![r11 installer](Images/r11%20installer.png)
 
 > [!CAUTION]
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!
 
 ### Installation Demo
-[![demo-video-thumbnail](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/demo-video-thumbnail.png)](https://youtu.be/xZtHO53xgys)
+[![demo-video-thumbnail](Images/demo-video-thumbnail.png)](https://youtu.be/xZtHO53xgys)
 
 *Click on the image to view the demo video on YouTube.*
 
 ## Contributing
 
 If you have additional resources fitting the Rectify11 design that you would
-like to share, please submit a [pull request](https://github.com/Undisputed00x/R11-resource-redirect/pulls).
+like to share, please submit a [pull request](https://github.com/ramensoftware/R11-resource-redirect/pulls).
 
 ### Issues
-If you are experiencing issues with this mod, please [open an issue](https://github.com/Undisputed00x/R11-resource-redirect/issues).
+If you are experiencing issues with this mod, please [open an issue](https://github.com/ramensoftware/R11-resource-redirect/issues).
 
 ## Credits
 * The Rectify11 dev team.
@@ -77,26 +76,23 @@ If you like the Rectify11 pack please follow the [Rectify11 Github repository](h
 ## Screenshots
 ### Redesigned system icons
 **Default**
-![default CPL](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/default%20CPL.png)
+![default CPL](Images/default%20CPL.png)
 **Rectify11**
-![r11 CPL](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20CPL.png)
+![r11 CPL](Images/r11%20CPL.png)
 
 ### Refined UI
 **Default**
-![default WMP](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/default%20WMP.png)
+![default WMP](Images/default%20WMP.png)
 **Rectify11**
-![r11 WMP](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20WMP.png)
+![r11 WMP](Images/r11%20WMP.png)
 
 ### Added DirectUI animations
 **Default**
-![default taskmgr](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/default%20taskmgr.gif)
+![default taskmgr](Images/default%20taskmgr.gif)
 **Rectify11**
-![r11 taskmgr](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20taskmgr.gif)
+![r11 taskmgr](Images/r11%20taskmgr.gif)
 
 **Default**
-![default ex7 anims](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/default%20ex7%20anims.gif)
+![default ex7 anims](Images/default%20ex7%20anims.gif)
 **Rectify11**
-![r11 ex7 anims](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20ex7%20anims.gif)
-
-
-
+![r11 ex7 anims](Images/r11%20ex7%20anims.gif)
