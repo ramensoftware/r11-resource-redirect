@@ -15,7 +15,7 @@ The resource pack of Rectify11 for Windhawk's Resource Redirect mod
 
 ## Introduction
 
-This is the collection of the much requested [Rectify11](https://rectify11.net/home) port for Windhawk's [Resource Redirect](https://windhawk.net/mods/icon-resource-redirect) mod. Rectify11 is a tool that allows you to customize your Windows 11 experience and make it more consistent by modifying system files. The advantage of using this resource pack is the instant activation or deactivation of the loading of Rectify11 resources all in memory without the requirement of modifying system files. This results in future Windows system updates not changing the resources loaded by the Resources Redirect mod, which otherwise patching the system files would have. Not all of the components of Rectify11 are included in this resource pack as their not supported by this mod, such as custom Windows themes, cursors, wallpapers, system fonts and third-party software packages and they require the official installer.
+This is the collection of the much requested [Rectify11](https://rectify11.net/home) port for Windhawk's [Resource Redirect](https://windhawk.net/mods/icon-resource-redirect) mod. Rectify11 is a tool that allows you to customize your Windows 11 experience and make it more consistent by modifying system files. The advantage of using this resource pack is the instant activation or deactivation of the loading of Rectify11 resources, all in memory without the requirement of modifying system files. This results in future Windows system updates not changing the resources loaded by the Resources Redirect mod, which otherwise patching the system files would have. Not all of the components of Rectify11 are included in this resource pack as they are not supported by this mod, such as custom Windows themes, cursors, wallpapers, system fonts and third-party software packages and they require the official installer.
 
 > [!NOTE]
 > The Redirect Redirect mod works with many types of resources listed [here](https://windhawk.net/mods/icon-resource-redirect).
@@ -31,7 +31,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 
 * Download your R11 pack through the [resources folder](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Resources/WindhawkR11.7z).
 * Unzip and extract the theme folder in a directory of your system.
-* First run as admin the `CopyNeccessary.bat` script.
+* First run as admin the `CopyNecessary.bat` script.
 * Copy the path of the theme folder (right click - copy as path) which contains the theme files.
 * Open Windhawk, go to the already installed "Resource Redirect" mod.
 * Go to mod's settings tab.
@@ -40,17 +40,20 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 * Click Save.
 
 > [!TIP]
-> For a cleaner look, use [the script to disable folder thumbnail previews](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Scripts/Disable_folder_thumbnail_previews.bat).
+> For a cleaner look of folders, use [the script to disable folder thumbnail previews](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Scripts/Disable_folder_thumbnail_previews.bat).
+
+> [!NOTE]
+> The contents of Rectify11 resource pack are equivalent to the "System icons" option in the official installer
+
+> [!Important]
+> Rectify11 Resource Redirect works best with the Rectify11 Windows themes. <br />
+> In case of any visual inconsistencies in the UI of Windows, use the Rectify11 installer <br />
+> from the official [website](https://rectify11.net/home) to install the custom themes
+> 
+> ![r11 installer](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20installer.png)
 
 > [!CAUTION]
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!
-
-> [!Important]
-> Rectify11 Resource Redirect works best with Rectify11 windows themes. <br />
-> In case of some visual inconsistencies in the UI of Windows, <br />
-> Use Rectify11 installer from their [website](https://rectify11.net/home) to install the custom themes
->
-> ![r11 installer](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20installer.png)
 
 ### Installation Demo
 [![demo-video-thumbnail](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/demo-video-thumbnail.png)](https://www.youtube.com/watch?v=x2vqyHOW1ds)
@@ -59,7 +62,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 
 ## Contributing
 
-If you have additions resources fitting the Recitfy 11 design that you would
+If you have additional resources fitting the Rectify11 design that you would
 like to share, please submit a [pull request](https://github.com/Undisputed00x/R11-resource-redirect/pulls).
 
 ### Issues
@@ -69,7 +72,7 @@ If you are experiencing issues with this mod, please [open an issue](https://git
 * The Rectify11 dev team.
 * [marbles0976](https://discord.com/users/716028609973977110) for the Windhawk icon.
 
-If you like Rectify11 pack please follow the [Rectify11 github repository](https://github.com/Rectify11/Installer).
+If you like the Rectify11 pack please follow the [Rectify11 Github repository](https://github.com/Rectify11/Installer).
 
 ## Screenshots
 ### Redesigned system icons
