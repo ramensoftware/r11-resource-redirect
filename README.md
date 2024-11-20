@@ -15,7 +15,7 @@ The resource pack of Rectify11 for Windhawk's Resource Redirect mod
 
 ## Introduction
 
-This is the collection of the much requested Rectify11 port for Windhawk's [Resource Redirect](https://windhawk.net/mods/icon-resource-redirect) mod. Rectify11 is a tool that allows you to customize your Windows 11 experience and make it more consistent by modifying system files. The advantage of using this resource pack is the instant activation or deactivation of the loading of Rectify11 resource all in memory without the requirement of modifying system files. This results in future Windows system updates not changing the resources loaded by the Resources Redirect mod, which otherwise patching the system files would have. Not all of the components of Rectify11 are included in this resource pack as their not supported by this mod, such as custom Windows themes, cursors, wallpapers, system fonts and third-party software package, as they require the official installer.
+This is the collection of the much requested [Rectify11](https://rectify11.net/home) port for Windhawk's [Resource Redirect](https://windhawk.net/mods/icon-resource-redirect) mod. Rectify11 is a tool that allows you to customize your Windows 11 experience and make it more consistent by modifying system files. The advantage of using this resource pack is the instant activation or deactivation of the loading of Rectify11 resources all in memory without the requirement of modifying system files. This results in future Windows system updates not changing the resources loaded by the Resources Redirect mod, which otherwise patching the system files would have. Not all of the components of Rectify11 are included in this resource pack as their not supported by this mod, such as custom Windows themes, cursors, wallpapers, system fonts and third-party software packages and they require the official installer.
 
 > [!NOTE]
 > The Redirect Redirect mod works with many types of resources listed [here](https://windhawk.net/mods/icon-resource-redirect).
@@ -53,7 +53,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 > ![r11 installer](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/r11%20installer.png)
 
 ### Installation Demo
-[![Video Title](https://img.youtube.com/vi/x2vqyHOW1ds/0.jpg)](https://www.youtube.com/watch?v=x2vqyHOW1ds)
+[![demo-video-thumbnail](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/demo-video-thumbnail.png)](https://www.youtube.com/watch?v=x2vqyHOW1ds)
 
 *Click on the image to view the demo video on YouTube.*
 
