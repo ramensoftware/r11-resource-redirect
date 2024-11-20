@@ -56,7 +56,7 @@ If you're not familiar with Windhawk, here are the steps for installing the mod:
 > Don't move the theme files or change their filenames unless you know how the theme redirection works!
 
 ### Installation Demo
-[![demo-video-thumbnail](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/demo-video-thumbnail.png)](https://www.youtube.com/watch?v=x2vqyHOW1ds)
+[![demo-video-thumbnail](https://github.com/Undisputed00x/R11-resource-redirect/blob/main/Images/demo-video-thumbnail.png)](https://youtu.be/xZtHO53xgys)
 
 *Click on the image to view the demo video on YouTube.*
 
