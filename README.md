@@ -7,6 +7,7 @@ The resource pack of Rectify11 for Windhawk's Resource Redirect mod.
 ## Table of contents
 
 * [Introduction](#introduction)
+* [Features](#features)
 * [Installation](#installation)
 * [Contributing](#contributing)
 * [Credits](#credits)
@@ -18,6 +19,20 @@ This is the collection of the much requested [Rectify11](https://rectify11.net/h
 
 > [!NOTE]
 > The Redirect Redirect mod works with many types of resources listed [here](https://windhawk.net/mods/icon-resource-redirect).
+
+## Features
+
+This pack adds/modifies:
+* [System icons](#redesigned-system-icons)
+* [Windows UI](#refined-ui) most notably in:
+  * File Explorer
+  * Task Manager
+  * WMP Legacy
+* [DirectUI animations](#added-directui-animations) most notably in:
+  * File Explorer
+  * Task Manager
+* [GDI text alpha fix](#translucent-file-explorer-partial-fix-of-text-alpha-values) on File Explorer (partially) <br />
+*(this is visible for people who have translucent windows by enabling [DwmExtendFrameIntoClientArea](https://learn.microsoft.com/en-us/windows/win32/api/dwmapi/nf-dwmapi-dwmextendframeintoclientarea) using [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone) and having one of these enabled: HDR, 10-bit colors, light mode or white background behind the window)*
 
 ## Installation
 If you're not familiar with Windhawk, here are the steps for installing the mod:
@@ -96,3 +111,9 @@ If you like the Rectify11 pack please follow the [Rectify11 Github repository](h
 ![default ex7 anims](Images/default%20ex7%20anims.gif)
 **Rectify11**
 ![r11 ex7 anims](Images/r11%20ex7%20anims.gif)
+
+### Translucent File Explorer partial fix of text alpha values
+**Default**
+![default explorer text](Images/default%20explorer%20text.png)
+**Rectify11**
+![r11 explorer text alpha fix](Images/r11%20explorer%20text%20alpha%20fix.png)
